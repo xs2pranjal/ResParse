@@ -1,0 +1,15 @@
+setup.py
+ResParse/__init__.py
+ResParse/annotations_parser.py
+ResParse/configurations.py
+ResParse/converter.py
+ResParse/details_parser.py
+ResParse/dirpath.py
+ResParse/language_parser.py
+ResParse/utilities.py
+ResParse.egg-info/PKG-INFO
+ResParse.egg-info/SOURCES.txt
+ResParse.egg-info/dependency_links.txt
+ResParse.egg-info/entry_points.txt
+ResParse.egg-info/requires.txt
+ResParse.egg-info/top_level.txt

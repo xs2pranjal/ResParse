@@ -1,0 +1,3 @@
+[console_scripts]
+ResParse = ResParse.cli:main
+

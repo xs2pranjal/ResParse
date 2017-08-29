@@ -1,0 +1,6 @@
+run python setup.py install
+and for parsing
+"
+ResParse parse --name sample/a
+"
+for parsing a.pdf, in sample
